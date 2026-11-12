@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 40" width="240" height="40">
+  <rect x="2" y="2" width="236" height="36" rx="18" fill="#E5EDE7" stroke="#18263B" stroke-width="3"/>
+  <rect id="progress-fill" x="7" y="7" width="158" height="26" rx="13" fill="#227D63"/>
+</svg>
